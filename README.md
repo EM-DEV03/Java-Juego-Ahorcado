@@ -16,4 +16,4 @@ Este es un clásico **juego del Ahorcado** desarrollado en **Java**. El objetivo
 4. Si la letra no está, perderás un intento.  
 5. ¡Adivina la palabra antes de que se complete el ahorcado!
 
-📌 Nota: Este proyecto es parte de mi aprendizaje en Java, desarrollado como una prueba de mis habilidades en programación. 🚀
+##📌 Nota: Este proyecto es parte de mi aprendizaje en Java, desarrollado como una prueba de mis habilidades en programación. 🚀
